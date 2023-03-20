@@ -214,7 +214,7 @@ function reset(){
                kangaroo_running);
   obstaclesGroup.destroyEach();
   shrubsGroup.destroyEach();
-
+  score = 0;
 }
 
 /*function reset(){
